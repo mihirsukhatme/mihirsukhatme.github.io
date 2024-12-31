@@ -11,6 +11,8 @@ main:
   - title: "CV"
     url: /files/MihirSukhatme_CV.pdf
 
-  - title: "Blog Posts"
-    url: /year-archive/
+#
+ # - title: "Blog Posts"
+  #  url: /year-archive/
+   # 
     
