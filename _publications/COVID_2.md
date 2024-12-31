@@ -1,6 +1,6 @@
 ---
 title: "Genome-wide Association Study of Long COVID"
-collection: Publications
+collection: Manuscripts
 category: Manuscripts
 permalink: /publication/COVID_2
 date: 2023-07-01

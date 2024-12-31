@@ -1,6 +1,6 @@
 ---
 title: "Integration of single cell omics with biobank data discovers trans effects of SREBF1 abdominal obesity risk variants on adipocyte expression of more than 100 genes"
-collection: Publications
+collection: Manuscripts
 category: Manuscripts
 permalink: /publication/Multiome
 date: 2024-11-23
