@@ -1,7 +1,7 @@
 ---
 title: "The COVID-19 Host Genetics Initiative"
-collection: publications
-category: journal
+collection: Manuscripts
+category: Publications
 permalink: /publication/The_COVID-19_Host_Genetics_Initiative
 date: 2023-09-06
 venue: 'Nature'
