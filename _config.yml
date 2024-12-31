@@ -21,7 +21,7 @@ repository               : "mihirsukhatme/mihirsukhatme.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-min.png"
+  avatar           : "profilepic-min.png"
   name             : "Mihir Sukhatme"
   pronouns         : "he/him"  
   bio              : "Computational and Systems Biology"
