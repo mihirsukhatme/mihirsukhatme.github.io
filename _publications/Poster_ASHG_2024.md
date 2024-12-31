@@ -1,6 +1,5 @@
 ---
-title: "Variants at adipocyte open chromatin act in cis
-and interact in trans on abdominal obesity risk"
+title: "Variants at adipocyte open chromatin act in cis and interact in trans on abdominal obesity risk"
 collection: Posters
 category: Posters
 permalink: /publication/Poster_ASHG_2024
