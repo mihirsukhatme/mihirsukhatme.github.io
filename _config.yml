@@ -43,9 +43,9 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  manuscripts:
+  Manuscripts:
     title: 'Publications'    
-  conferences:
+  Posters:
     title: 'Posters'
 
 # Site Settings
