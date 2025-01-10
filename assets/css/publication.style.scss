@@ -30,3 +30,29 @@
     height: auto;
 }
 
+@media (max-width: 768px) { /* Adjust breakpoint as needed */
+    .publication-entry {
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+    }
+
+    .publication-figure,
+    .publication-text {
+        margin-right: 0;
+        margin-left: 0;
+        text-align: center; /* Center the text for smaller screens */
+    }
+
+    .publication-figure img {
+        width: 200px; /* Adjust size for smaller screens if needed */
+        margin-bottom: 15px; /* Space between image and text */
+    }
+    .publication-figure-vertical img {
+        width: 150px; /* Adjust size for smaller screens if needed */
+        margin-bottom: 15px; /* Space between image and text */
+    }
+    .publication-figure-horizontal img {
+        width: 200px; /* Adjust size for smaller screens if needed */
+        margin-bottom: 15px; /* Space between image and text */
+    }
+}
