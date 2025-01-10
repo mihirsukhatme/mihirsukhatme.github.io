@@ -11,7 +11,18 @@
     margin-right: 40px; /* Adjust margin as needed */
     font-size: 0.9em; /* Adjust font size as needed */
 }
-  
+
+.publication-figure img {
+    /* Adjust width as needed */
+    width: 50px; /* Fig size */
+    height: 50px;
+}
+
+.publication-figure-horizontal img {
+    /* Adjust width as needed */
+    width: 100px; /* Fig size */
+    height: 75px;
+}
 
 .publication-figure-vertical img {
     /* Adjust width as needed */

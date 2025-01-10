@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 <div class="publication-entry">
-  <div class="publication-figure"> 
+  <div class="publication-figure-vertical"> 
      <img src="/images/fat_tissue.png">
   </div>
   <div class="publication-text">
@@ -68,7 +68,7 @@ author_profile: true
 
 ## Posters
 <div class="publication-entry">
-  <div class="publication-figure"> 
+  <div class="publication-figure-horizontal"> 
      <img src="/images/ASHG_2024_img.png">
   </div>
   <div class="publication-text">
@@ -81,7 +81,7 @@ author_profile: true
 </div>
 
 <div class="publication-entry">
-  <div class="publication-figure"> 
+  <div class="publication-figure-horizontal"> 
      <img src="/images/ASHG_2024_img.png">
   </div>
   <div class="publication-text">
@@ -94,7 +94,7 @@ author_profile: true
 </div>
 
 <div class="publication-entry">
-  <div class="publication-figure"> 
+  <div class="publication-figure-horizontal"> 
      <img src="/images/ASHG_2023_img.png">
   </div>
   <div class="publication-text">
@@ -107,7 +107,7 @@ author_profile: true
 </div>
 
 <div class="publication-entry">
-  <div class="publication-figure"> 
+  <div class="publication-figure-horizontal"> 
      <img src="/images/ASHG_2023_img.png">
   </div>
   <div class="publication-text">
