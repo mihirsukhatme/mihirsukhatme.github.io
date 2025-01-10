@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Preprints
-## 2024
 <div class="publication-entry">
   <div class="publication-figure"> 
      <img src="/images/fat_tissue.png">
