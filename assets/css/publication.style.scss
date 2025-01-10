@@ -20,14 +20,12 @@
 
 .publication-figure-vertical img {
     /* Adjust width as needed */
-    width: 30%; /* Fig size */
-    height: auto;
+    width: 100%; /* Fig size */
 }
 
 .publication-figure-horizontal img {
     /* Adjust width as needed */
-    width: 30%; /* Fig size */
-    height: auto;
+    width: 100%; /* Fig size */
 }
 
 @media (max-width: 700px) { /* Adjust breakpoint as needed */
