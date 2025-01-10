@@ -30,17 +30,3 @@
     height: 50px;
 }
 
-
-@media (max-width: 500px) { /* Adjust breakpoint as needed */
-    .publication-entry {
-        flex-direction: column;
-        align-items: center; /* Center items horizontally */
-    }
-
-    .publication-figure,
-    .publication-text {
-        margin-right: 0;
-        margin-left: 0;
-        text-align: center; /* Center the text for smaller screens */
-    }
-}
