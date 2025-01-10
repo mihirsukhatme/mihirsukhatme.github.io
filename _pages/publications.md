@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 <div class="publication-entry">
   <div class="publication-figure"> 
-     <img src="/images/ccc.png">
+     <img src="/images/fat_tissue.png">
   </div>
   <div class="publication-text">
     <p>
