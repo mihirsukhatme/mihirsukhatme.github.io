@@ -3,12 +3,13 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+nav_order: 1
 ---
 
 ## Preprints
 <div class="publication-entry">
   <div class="publication-figure"> 
-     <img src="/images/fat_tissue.png">
+     <img src="/images/ccc.png">
   </div>
   <div class="publication-text">
     <p>
