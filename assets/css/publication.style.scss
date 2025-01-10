@@ -20,17 +20,17 @@
 
 .publication-figure-vertical img {
     /* Adjust width as needed */
-    width: auto; /* Fig size */
+    width: 50px; /* Fig size */
     height: auto;
 }
 
 .publication-figure-horizontal img {
     /* Adjust width as needed */
-    width: auto; /* Fig size */
+    width: 50px; /* Fig size */
     height: auto;
 }
 
-@media (max-width: 300px) { /* Adjust breakpoint as needed */
+@media (max-width: 700px) { /* Adjust breakpoint as needed */
     .publication-entry {
         flex-direction: column;
         align-items: center; /* Center items horizontally */
