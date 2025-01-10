@@ -31,18 +31,6 @@ author_profile: true
   </div>
 </div>
 
-<div class="publication-entry">
-  <div class="publication-text">
-    <p>
-      <strong>Single-cell DNA methylome and 3D genome atlas of the human subcutaneous adipose tissue</strong><br>
-      Chen ZJ, Das SS, Kar A, Lee SHT, Abuhanna D, Alvarez M, <strong>Sukhatme MG</strong>, Gelev KZ, Heﬀel MG, Zhang Yi, Avram O, Rahmani E, Sankararaman S, Heionen S, Peltoniemi H, Halperin E, Pietiläinen KH, Luo C, Pajukanta P
-      bioRxiv<br>       
-      <a href="https://www.biorxiv.org/content/10.1101/2024.11.02.621694v1">Paper</a>
-    </p>
-  </div>
-</div>
-
-
 ## 2023
 <div class="publication-entry">
   <div class="publication-text">
@@ -74,7 +62,7 @@ author_profile: true
   <div class="publication-text">
     <p>
       <strong>Variants at adipocyte open chromatin act in cis and interact in trans on abdominal obesity risk</strong><br>
-      <strong>Sukhatme MG</strong>, Kar A, Arasu UT, Lee SHT, Alvarez M, Garske KM, Gelev KZ, Rajkumar S, Das SS, Kaminska D, Männistö V, Peltoniemi H, Heinonen S, Säiläkivi U, Saarinen T, Juuti A, Pietiläinen KH, Pihlajamäki J, Kaikkonen MU, Pajukanta P
+      <strong>Sukhatme MG</strong>, Kar A, Arasu UT, Lee SHT, Alvarez M, Garske KM, Gelev KZ, Rajkumar S, Das SS, Kaminska D, Männistö V, Peltoniemi H, Heinonen S, Säiläkivi U, Saarinen T, Juuti A, Pietiläinen KH, Pihlajamäki J, Kaikkonen MU, Pajukanta P<br>
       ASHG, 2024<br> 
     </p>
   </div>
@@ -87,7 +75,7 @@ author_profile: true
   <div class="publication-text">
     <p>
       <strong>Epistatic SNPs land in regulatory regions and possess a similar risk as GWAS SNPs in a common liver disease, MASLD</strong><br>
-      Kar A, Fu B, <strong>Sukhatme MG</strong>, Lee SHT, Border R, Garske KM, Chen Z, Kaminska D, Männistö V, Pihlajamäki J, Sankararaman S, Pajukanta P
+      Kar A, Fu B, <strong>Sukhatme MG</strong>, Lee SHT, Border R, Garske KM, Chen Z, Kaminska D, Männistö V, Pihlajamäki J, Sankararaman S, Pajukanta P<br>
       ASHG, 2024<br> 
     </p>
   </div>
@@ -100,7 +88,7 @@ author_profile: true
   <div class="publication-text">
     <p>
       <strong>Single-cell level analysis of obese individuals’ two main fat depots discovers differences in cell-type marker genes and their genetic risks for obesity</strong><br>
-      <strong>Sukhatme MG</strong>, Arasu UT, Kar A, Lee SHT, Alvarez M, Selvarajan I, Örd T, Kaminska D, Männistö V, Pihlajamäki J, Kaikkonen MU, Pajukanta P
+      <strong>Sukhatme MG</strong>, Arasu UT, Kar A, Lee SHT, Alvarez M, Selvarajan I, Örd T, Kaminska D, Männistö V, Pihlajamäki J, Kaikkonen MU, Pajukanta P<br>
       ASHG, 2023<br> 
     </p>
   </div>
@@ -113,7 +101,7 @@ author_profile: true
   <div class="publication-text">
     <p>
       <strong>Single Cell Multiomics Profiling of Visceral Adipose Tissue Reveals New Insights into the Genetic Regulation of Cardiometabolic Disease</strong><br>
-      Arasu UT, Selvarajan I, Örd T, Taipale M, Toropainen A, <strong>Sukhatme MG</strong>, Kar A, Lee SHT, Alvarez M, Kaminska D, Männistö V, Pihlajamäki J, Pajukanta P, Kaikkonen MU
+      Arasu UT, Selvarajan I, Örd T, Taipale M, Toropainen A, <strong>Sukhatme MG</strong>, Kar A, Lee SHT, Alvarez M, Kaminska D, Männistö V, Pihlajamäki J, Pajukanta P, Kaikkonen MU<br>
       ASHG, 2023<br> 
     </p>
   </div>
