@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Preprints
+## 2024
 <div class="publication-entry">
   <div class="publication-figure"> 
      <img src="/images/fat_tissue.png">
@@ -13,8 +14,8 @@ author_profile: true
   <div class="publication-text">
     <p>
       <strong>Integration of single-cell omics with biobank data discovers trans eﬀects of SREBF1 abdominal obesity risk variants on adipocyte expression of more than 100 genes</strong><br>
-      <strong>Sukhatme MG</strong>, Kar A, Arasu UT, Lee SHT, Alvarez M, Garske KM, Gelev KZ, Rajkumar S, Das SS, Kaminska D, Männistö V, Peltoniemi H, Heinonen S, Säiläkivi U, Saarinen T, Juuti A, Pietiläinen KH, Pihlajamäki J, Kaikkonen MU, Pajukanta P
-      medRxiv<br>       
+      <strong>Sukhatme MG</strong>, Kar A, Arasu UT, Lee SHT, Alvarez M, Garske KM, Gelev KZ, Rajkumar S, Das SS, Kaminska D, Männistö V, Peltoniemi H, Heinonen S, Säiläkivi U, Saarinen T, Juuti A, Pietiläinen KH, Pihlajamäki J, Kaikkonen MU, Pajukanta P<br>
+      medRxiv, 2024<br>       
       <a href="https://www.medrxiv.org/content/10.1101/2024.11.22.24317804v1">Paper</a>
     </p>
   </div>
@@ -24,8 +25,8 @@ author_profile: true
   <div class="publication-text">
     <p>
       <strong>Single-cell DNA methylome and 3D genome atlas of the human subcutaneous adipose tissue</strong><br>
-      Chen ZJ, Das SS, Kar A, Lee SHT, Abuhanna D, Alvarez M, <strong>Sukhatme MG</strong>, Gelev KZ, Heﬀel MG, Zhang Yi, Avram O, Rahmani E, Sankararaman S, Heionen S, Peltoniemi H, Halperin E, Pietiläinen KH, Luo C, Pajukanta P
-      bioRxiv<br>       
+      Chen ZJ, Das SS, Kar A, Lee SHT, Abuhanna D, Alvarez M, <strong>Sukhatme MG</strong>, Gelev KZ, Heﬀel MG, Zhang Yi, Avram O, Rahmani E, Sankararaman S, Heionen S, Peltoniemi H, Halperin E, Pietiläinen KH, Luo C, Pajukanta P<br>
+      bioRxiv, 2024<br>       
       <a href="https://www.biorxiv.org/content/10.1101/2024.11.02.621694v1">Paper</a>
     </p>
   </div>
