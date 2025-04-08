@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Mihir, a fourth year undergraduate at the University of California, Los Angeles (UCLA)! I just completed my B.S. in Computational and Systems Biology and will be attending MIT as a PhD student in Computational and Systems Biology in Fall 2025! I am currently supervised by [Dr. Paivi Pajukanta](https://pajukantalab.dgsom.ucla.edu/).
+Hi! I'm Mihir, a fourth year undergraduate at the University of California, Los Angeles (UCLA)! I just completed my B.S. in Computational and Systems Biology(CSB) and will be attending MIT as a PhD student in Computational and Systems Biology (CSB) in Fall 2025! I am currently supervised by [Dr. Paivi Pajukanta](https://pajukantalab.dgsom.ucla.edu/).
 
 My Research
 ======
