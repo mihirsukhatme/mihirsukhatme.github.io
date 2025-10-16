@@ -15,4 +15,4 @@ I'm currently interested in exploring the genetic basis of disease, specifically
 
 Outside of the Lab
 ======
-If I'm not in lab you can find me playing video games, running a [radio show](https://wmbr.org/), or playing sports! Feel free to message me through email!
+If I'm not in lab you can find me playing video games, listening to/broadcasting music, or playing sports! Feel free to message me through email to get in touch!
