@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Mihir, a fourth year undergraduate at the University of California, Los Angeles (UCLA)! I just completed my B.S. in Computational and Systems Biology(CSB) and will be attending MIT as a PhD student in Computational and Systems Biology (CSB) in Fall 2025! I am currently supervised by [Dr. Paivi Pajukanta](https://pajukantalab.dgsom.ucla.edu/).
+Hi, I'm Mihir, a 1st year PhD student in Computational and Systems Biology (CSB) at MIT! Previosuly I attended UCLA where I graduated with a B.S. in Computational and Systems Biology where I was supervised by [Dr. Paivi Pajukanta](https://pajukantalab.dgsom.ucla.edu/).
 
 My Research
 ======
-I'm currently interested in exploring the basis of disease, specifically obesity and other cardiometabolic traits, through integration of genetic and epigenetic omics data. Specifically, I have worked with single-nucleus RNA and ATAC sequencing data, as well as built polygenic risk scores (PRS) to quantify genetic/variant level risk for cardiometabolic traits. I am eager to pursue further studies within this realm, as well as explore the effects of genetic variation between populations on disease.
+I'm currently interested in exploring the genetic basis of disease, specifically neuro-related traits like alcohol/opioid abuse, Alzheimer's Disease, and Huntington's Disease, through integration of genetic and epigenetic omics data. In the past, I worked with single-nucleus RNA and ATAC sequencing data, as well as built polygenic risk scores (PRS) to quantify genetic/variant level risk for cardiometabolic traits. I am eager to pursue further studies within this realm, as well as explore the effects of genetic variation between ancestral populations on these outcomes.
 
 My Interests
 ======
