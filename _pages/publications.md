@@ -36,7 +36,7 @@ author_profile: true
   <div class="publication-text">
     <p>
       <strong>Genome-wide Association Study of Long COVID</strong><br>
-      Lammi V et al.<br>
+      Lammi V, Nakanishi T, Jones SE et al.<br>
       Nature Genetics, 2023<br>
       <a href="https://www.nature.com/articles/s41588-025-02100-w">Paper</a>
     </p>
