@@ -13,10 +13,6 @@ My Research
 ======
 I'm currently interested in exploring the genetic basis of disease, specifically neuro-related traits like alcohol/opioid abuse, Alzheimer's Disease, and Huntington's Disease, through integration of genetic and epigenetic omics data. In the past, I worked with single-nucleus RNA and ATAC sequencing data, as well as built polygenic risk scores (PRS) to quantify variant and population level risk for cardiometabolic traits. I am eager to pursue further studies within this realm, as well as explore the effects of genetic variation between ancestral populations on these outcomes.
 
-My Interests
+Outside of the Lab
 ======
-1. Genetic variation
-1. Risk associations for disease
-1. Sports/Gym
-1. Exploring new music genres 
-1. Travel
+If I'm not in lab you can find me playing video games, running a [radio show](https://wmbr.org/), or playing sports! Feel free to message me through email!
