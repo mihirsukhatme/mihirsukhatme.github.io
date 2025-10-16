@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Mihir, a 1st year PhD student in Computational and Systems Biology (CSB) at MIT! Previosuly I attended UCLA where I graduated with a B.S. in Computational and Systems Biology where I was supervised by [Dr. Paivi Pajukanta](https://pajukantalab.dgsom.ucla.edu/).
+Hi, I'm Mihir, a 1st year PhD student in the Computational and Systems Biology (CSB) program at MIT! Previously, I attended UCLA where I graduated with a B.S. in Computational and Systems Biology and was supervised by [Dr. Paivi Pajukanta](https://pajukantalab.dgsom.ucla.edu/).
 
 My Research
 ======
