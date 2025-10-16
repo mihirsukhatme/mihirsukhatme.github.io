@@ -20,29 +20,30 @@ author_profile: true
   </div>
 </div>
 
+## 2025
 <div class="publication-entry">
   <div class="publication-text">
     <p>
       <strong>Single-cell DNA methylome and 3D genome atlas of the human subcutaneous adipose tissue</strong><br>
       Chen ZJ, Das SS, Kar A, Lee SHT, Abuhanna D, Alvarez M, <strong>Sukhatme MG</strong>, Gelev KZ, Heﬀel MG, Zhang Yi, Avram O, Rahmani E, Sankararaman S, Heionen S, Peltoniemi H, Halperin E, Pietiläinen KH, Luo C, Pajukanta P<br>
-      bioRxiv, 2024<br>       
-      <a href="https://www.biorxiv.org/content/10.1101/2024.11.02.621694v1">Paper</a>
+      Nature Genetics, 2025<br>       
+      <a href="https://www.nature.com/articles/s41588-025-02300-4">Paper</a>
     </p>
   </div>
 </div>
 
-## 2023
 <div class="publication-entry">
   <div class="publication-text">
     <p>
       <strong>Genome-wide Association Study of Long COVID</strong><br>
       Lammi V et al.<br>
       Nature Genetics, 2023<br>
-      <a href="https://www.medrxiv.org/content/10.1101/2023.06.29.23292056v1">Paper</a>
+      <a href="https://www.nature.com/articles/s41588-025-02100-w">Paper</a>
     </p>
   </div>
 </div>
 
+## 2023
 <div class="publication-entry">
   <div class="publication-text">
     <p>
