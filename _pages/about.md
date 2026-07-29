@@ -11,8 +11,8 @@ Hi, I'm Mihir, a 1st year PhD student in the Computational and Systems Biology (
 
 My Research
 ======
-I'm currently interested in exploring the genetic basis of disease, specifically neuro-related traits like alcohol/opioid abuse, Alzheimer's Disease, and Huntington's Disease, through integration of genetic and epigenetic omics data. In the past, I worked with single-nucleus RNA and ATAC sequencing data, as well as built polygenic risk scores (PRS) to quantify variant and population level risk for cardiometabolic traits. I am eager to pursue further studies within this realm, as well as explore the effects of genetic variation between ancestral populations on these outcomes.
+I'm currently interested in exploring the genetic basis of disease, specifically in neuro-related traits, through integration various types of omics data. In the past, I have worked with single-nucleus RNA and ATAC sequencing data, as well as built polygenic risk scores (PRS) to quantify variant and population level risk for cardiometabolic traits. I am eager to pursue further studies within this realm, as well as explore the effects of genetic variation between ancestral populations on these outcomes.
 
 Outside of the Lab
 ======
-If I'm not in lab you can find me playing video games, listening to/broadcasting music, or playing sports! Feel free to message me through email to get in touch!
+If I'm not in lab you can find me playing playing sports, broadcasting music, or trying new types of food! Feel free to message me through email to get in touch!
