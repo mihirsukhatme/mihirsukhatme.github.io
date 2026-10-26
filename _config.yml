@@ -25,13 +25,13 @@ author:
   name             : "Mihir Sukhatme"
   pronouns         : "he/him"  
   bio              : "Computational and Systems Biology"
-  location         : "Cambridge, Massachussets"
+  location         : "Cambridge, Massachussetts"
   employer         : "MIT"
   uri              : # URL
   email            : "sukhatme@mit.edu" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=Wu1GWjOjX14C&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=_laBLwIAAAAJ&hl=en"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mihir+sukhatme"
 
   # Repositories and software development
