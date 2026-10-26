@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Mihir, a 1st year PhD student in the Computational and Systems Biology (CSB) program at MIT! Previously, I attended UCLA where I graduated with a B.S. in Computational and Systems Biology and was supervised by [Dr. Paivi Pajukanta](https://pajukantalab.dgsom.ucla.edu/).
+Hi, I'm Mihir, a 2nd year PhD student in the Computational and Systems Biology (CSB) program at MIT, supervised bt [Dr. David Page](https://www.pagelab.wi.mit.edu/)! Previously, I attended UCLA where I graduated with a B.S. in Computational and Systems Biology and was supervised by [Dr. Paivi Pajukanta](https://pajukantalab.dgsom.ucla.edu/). 
 
 My Research
 ======
-I'm currently interested in exploring the genetic basis of disease, specifically in neuro-related traits, through integration various types of omics data. In the past, I have worked with single-nucleus RNA and ATAC sequencing data, as well as built polygenic risk scores (PRS) to quantify variant and population level risk for cardiometabolic traits. I am eager to pursue further studies within this realm, as well as explore the effects of genetic variation between ancestral populations on these outcomes.
+I'm interested in exploring the genetic basis of disease, specifically in neuro-related traits, through integration of various types of omics data. In the past, I have worked with single-nucleus RNA and ATAC sequencing data, as well as built polygenic risk scores (PRS) to quantify variant and population level risk for cardiometabolic traits. Currently, I am working on characterizing the genetic and epigenetic effects of DDX3X Syndrome, a neurodevelopmental disorder.
 
 Outside of the Lab
 ======
